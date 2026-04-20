@@ -1,6 +1,6 @@
 # Sales-performance-dashboard
-Executive Summary
-Developed an interactive Excel Sales Performance Dashboard to analyze 5,000+ sales transactions by combining Orders and Products datasets. The dashboard provides KPI tracking, trend analysis, category performance, city-wise revenue insights, payment behavior, and product-level performance through dynamic slicers and PivotCharts.
+EXECUTIVE SUMMARY
+ Developed an interactive Excel Sales Performance Dashboard to analyze 5,000+ sales transactions by combining Orders and Products datasets. The dashboard provides KPI tracking, trend analysis, category performance, city-wise revenue insights, payment behavior, and product-level performance through dynamic slicers and PivotCharts.
 
 Business Problem
 Businesses often store transactional data in raw tables, making it difficult to quickly understand sales performance, customer behavior, and operational efficiency. Management needed a simple dashboard to monitor revenue trends, top-performing categories, order fulfillment status, and regional sales performance for faster decision-making.
